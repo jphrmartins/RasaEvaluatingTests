@@ -1,0 +1,140 @@
+{
+  "abbreviation": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 33
+  },
+  "aircraft": {
+    "precision": 0.6153846153846154,
+    "recall": 0.8888888888888888,
+    "f1-score": 0.7272727272727274,
+    "support": 9
+  },
+  "airfare": {
+    "precision": 0.9056603773584906,
+    "recall": 1.0,
+    "f1-score": 0.9504950495049505,
+    "support": 48
+  },
+  "airfare+flight": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "airline": {
+    "precision": 0.8260869565217391,
+    "recall": 1.0,
+    "f1-score": 0.9047619047619047,
+    "support": 38
+  },
+  "airport": {
+    "precision": 1.0,
+    "recall": 0.9444444444444444,
+    "f1-score": 0.9714285714285714,
+    "support": 18
+  },
+  "capacity": {
+    "precision": 0.9444444444444444,
+    "recall": 0.8095238095238095,
+    "f1-score": 0.8717948717948718,
+    "support": 21
+  },
+  "city": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 6
+  },
+  "day_name": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "distance": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 10
+  },
+  "flight": {
+    "precision": 0.9717868338557993,
+    "recall": 0.9810126582278481,
+    "f1-score": 0.9763779527559056,
+    "support": 632
+  },
+  "flight+airfare": {
+    "precision": 0.8,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.47058823529411764,
+    "support": 12
+  },
+  "flight+airline": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "flight_no": {
+    "precision": 0.8571428571428571,
+    "recall": 0.75,
+    "f1-score": 0.7999999999999999,
+    "support": 8
+  },
+  "flight_no+airline": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "flight_time": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "ground_fare": {
+    "precision": 1.0,
+    "recall": 0.5714285714285714,
+    "f1-score": 0.7272727272727273,
+    "support": 7
+  },
+  "ground_service": {
+    "precision": 0.9473684210526315,
+    "recall": 1.0,
+    "f1-score": 0.972972972972973,
+    "support": 36
+  },
+  "meal": {
+    "precision": 1.0,
+    "recall": 0.16666666666666666,
+    "f1-score": 0.2857142857142857,
+    "support": 6
+  },
+  "quantity": {
+    "precision": 0.375,
+    "recall": 1.0,
+    "f1-score": 0.5454545454545454,
+    "support": 3
+  },
+  "micro avg": {
+    "precision": 0.9473684210526315,
+    "recall": 0.9473684210526315,
+    "f1-score": 0.9473684210526315,
+    "support": 893
+  },
+  "macro avg": {
+    "precision": 0.6621437252880289,
+    "recall": 0.6222649186256781,
+    "f1-score": 0.610206692211379,
+    "support": 893
+  },
+  "weighted avg": {
+    "precision": 0.94187176074438,
+    "recall": 0.9473684210526315,
+    "f1-score": 0.939451384467971,
+    "support": 893
+  }
+}
