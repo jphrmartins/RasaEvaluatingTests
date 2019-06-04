@@ -22,3 +22,13 @@ $ rasa test nlu -u test/{trainDataSet} -m models/{models} --report report/
 
 Para mais info, rodar `rasa test nlu -h` ou `rasa train nlu -h`
 Ou olhar a documentação do rasa em https://rasa.com/docs/rasa/nlu/using-nlu-only/
+
+
+#### Resultados F1
+
+- SpacytokenTFAnalyzer -> .93945
+- Tf puro -> .93922
+- Stensorcy -> .93900
+- TensorflowDefault -> .92348
+- Spacy default -> .88921
+- Spacy  puro -> .88726
