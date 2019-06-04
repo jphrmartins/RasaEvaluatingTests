@@ -12,7 +12,7 @@ python -m spacy link en_core_web_md en
 
 #### Treinar um novo modelo
 ```
-$ rasa train nlu -c config/{configuration} --fixed-model-name {nomeDoModelo}
+$ rasa train nlu -c configs/{configuration} --fixed-model-name {nomeDoModelo}
 ```
 
 #### Testar o modelo
